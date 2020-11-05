@@ -1,40 +1,40 @@
 office,party,name,votes,percent
-"President / Vice President",D,"Joseph R. Biden","542,409",41%
-"President / Vice President",R,"Donald J. Trump","745,806",57%
-"President / Vice President",L,"Jo Jorgensen","28,900",2%
-"United States Senate",D,"Barbara Bollier","544,215",41%
-"United States Senate",R,"Roger Marshall","704,283",54%
-"United States Senate",L,"Jason Buckley","64,568",5%
-"United States House of Representatives 1",D,"Kali Barnett","81,204",28%
-"United States House of Representatives 1",R,"Tracey Mann","203,897",72%
-"United States House of Representatives 2",D,"Michelle De La Isla","133,140",41%
-"United States House of Representatives 2",R,"Jake LaTurner","181,752",55%
-"United States House of Representatives 2",L,"Robert Garrard","13,717",4%
-"United States House of Representatives 3",D,"Sharice L. Davids","212,084",53%
-"United States House of Representatives 3",R,"Amanda L. Adkins","173,621",44%
-"United States House of Representatives 3",L,"Steven A Hohe","11,077",3%
-"United States House of Representatives 4",D,"Laura Lombard","103,731",35%
-"United States House of Representatives 4",R,"Ron Estes","190,342",65%
-"Kansas Senate 1",D,"Kirk Miller","9,695",28%
-"Kansas Senate 1",R,"Dennis Pyle","24,523",72%
+"President / Vice President",D,"Joseph R. Biden","542,949",41%
+"President / Vice President",R,"Donald J. Trump","746,340",57%
+"President / Vice President",L,"Jo Jorgensen","28,947",2%
+"United States Senate",D,"Barbara Bollier","544,773",41%
+"United States Senate",R,"Roger Marshall","704,978",54%
+"United States Senate",L,"Jason Buckley","64,664",5%
+"United States House of Representatives 1",D,"Kali Barnett","81,277",28%
+"United States House of Representatives 1",R,"Tracey Mann","203,930",72%
+"United States House of Representatives 2",D,"Michelle De La Isla","133,234",41%
+"United States House of Representatives 2",R,"Jake LaTurner","181,957",55%
+"United States House of Representatives 2",L,"Robert Garrard","13,728",4%
+"United States House of Representatives 3",D,"Sharice L. Davids","212,563",53%
+"United States House of Representatives 3",R,"Amanda L. Adkins","174,112",44%
+"United States House of Representatives 3",L,"Steven A Hohe","11,113",3%
+"United States House of Representatives 4",D,"Laura Lombard","103,732",35%
+"United States House of Representatives 4",R,"Ron Estes","190,346",65%
+"Kansas Senate 1",D,"Kirk Miller","9,770",28%
+"Kansas Senate 1",R,"Dennis Pyle","24,758",72%
 "Kansas Senate 3",D,"Tom Holland","19,961",51%
 "Kansas Senate 3",R,"Willie Dove","19,168",49%
 "Kansas Senate 4",D,"David Haley","16,707",78%
 "Kansas Senate 4",R,"Sam Stillwell","4,588",22%
 "Kansas Senate 5",D,"Jeff Pittman","16,502",53%
 "Kansas Senate 5",R,"Kevin Braun","14,627",47%
-"Kansas Senate 6",D,"Pat Pettey","14,140",64%
-"Kansas Senate 6",R,"Diana Whittington","7,899",36%
-"Kansas Senate 7",D,"Ethan Corson","27,391",59%
-"Kansas Senate 7",R,"Laura McConwell","18,777",41%
-"Kansas Senate 8",D,"Cindy Holscher","22,837",54%
-"Kansas Senate 8",R,"James Todd","19,311",46%
-"Kansas Senate 9",D,"Stacey Knoell","19,762",48%
-"Kansas Senate 9",R,"Beverly Gossage","21,820",52%
-"Kansas Senate 10",D,"Lindsey Constance","19,843",48%
-"Kansas Senate 10",R,"Mike Thompson","21,675",52%
-"Kansas Senate 11",D,"Joy Koesten","21,595",47%
-"Kansas Senate 11",R,"Kellie Warren","24,145",53%
+"Kansas Senate 6",D,"Pat Pettey","14,146",64%
+"Kansas Senate 6",R,"Diana Whittington","7,901",36%
+"Kansas Senate 7",D,"Ethan Corson","27,461",59%
+"Kansas Senate 7",R,"Laura McConwell","18,844",41%
+"Kansas Senate 8",D,"Cindy Holscher","22,900",54%
+"Kansas Senate 8",R,"James Todd","19,378",46%
+"Kansas Senate 9",D,"Stacey Knoell","19,816",48%
+"Kansas Senate 9",R,"Beverly Gossage","21,887",52%
+"Kansas Senate 10",D,"Lindsey Constance","19,924",48%
+"Kansas Senate 10",R,"Mike Thompson","21,743",52%
+"Kansas Senate 11",D,"Joy Koesten","21,661",47%
+"Kansas Senate 11",R,"Kellie Warren","24,235",53%
 "Kansas Senate 12",D,"Mike Bruner","8,162",26%
 "Kansas Senate 12",R,"Caryn Tyson","23,794",74%
 "Kansas Senate 13",D,"Nancy J. Ingle","9,974",34%
@@ -71,8 +71,8 @@ office,party,name,votes,percent
 "Kansas Senate 37",R,"Molly Baumgardner","30,031",66%
 "Kansas Senate 38",D,"Edgar A. Pando","5,783",31%
 "Kansas Senate 38",R,"Bud Estes","13,037",69%
-"Kansas Senate 40",D,"Larry Joseph Dreiling","7,352",21%
-"Kansas Senate 40",R,"Richard (Rick) Billinger","27,693",79%
+"Kansas Senate 40",D,"Larry Joseph Dreiling","7,356",21%
+"Kansas Senate 40",R,"Richard (Rick) Billinger","27,701",79%
 "Kansas House of Representatives 2",D,"Lynn D. Grant","4,007",38%
 "Kansas House of Representatives 2",R,"Kenneth Collins","6,607",62%
 "Kansas House of Representatives 3",D,"Monica Murnan","4,049",46%
@@ -227,8 +227,8 @@ office,party,name,votes,percent
 "Kansas House of Representatives 105",R,"Brenda Landwehr","5,075",60%
 "Kansas House of Representatives 106",D,"James L Swim","2,711",25%
 "Kansas House of Representatives 106",R,"Lisa M. Moser","8,260",75%
-"Kansas House of Representatives 111",D,"Eber Phelps","4,018",36%
-"Kansas House of Representatives 111",R,"Barb Wasinger","7,169",64%
+"Kansas House of Representatives 111",D,"Eber Phelps","4,021",36%
+"Kansas House of Representatives 111",R,"Barb Wasinger","7,175",64%
 "Kansas House of Representatives 114",D,"Jeff Stroberg","3,039",29%
 "Kansas House of Representatives 114",R,"Michael Murphy","7,311",71%
 "Kansas House of Representatives 116",D,"Rick Roitman","2,122",22%
@@ -241,8 +241,8 @@ office,party,name,votes,percent
 "Member, State Board of Education 2",R,"Benjamin B. Hodge","77,313",45%
 "Member, State Board of Education 8",D,"Betty Arnold","42,905",50%
 "Member, State Board of Education 8",R,"Kathy Busch","42,496",50%
-"Supreme Court Justice 4",,"Eric S. Rosen - ""YES""","796,461",70%
-"Supreme Court Justice 4",,"Eric S. Rosen - ""NO""","343,753",30%
+"Supreme Court Justice 4",,"Eric S. Rosen - ""YES""","796,538",70%
+"Supreme Court Justice 4",,"Eric S. Rosen - ""NO""","343,777",30%
 "District Court Judge 18-1",D,"Joni Cole","79,279",42%
 "District Court Judge 18-1",R,"Phillip B. Journey","109,801",58%
 "District Court Judge 18-11",D,"Monique Centeno","78,795",43%
