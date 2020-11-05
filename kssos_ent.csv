@@ -1,11 +1,12 @@
-"President / Vice President",D,"Joseph R. Biden","542,404",41%
-"President / Vice President",R,"Donald J. Trump","745,780",57%
-"President / Vice President",L,"Jo Jorgensen","28,898",2%
-"United States Senate",D,"Barbara Bollier","544,211",41%
-"United States Senate",R,"Roger Marshall","704,257",54%
-"United States Senate",L,"Jason Buckley","64,565",5%
-"United States House of Representatives 1",D,"Kali Barnett","81,199",28%
-"United States House of Representatives 1",R,"Tracey Mann","203,869",72%
+office,party,name,votes,percent
+"President / Vice President",D,"Joseph R. Biden","542,409",41%
+"President / Vice President",R,"Donald J. Trump","745,806",57%
+"President / Vice President",L,"Jo Jorgensen","28,900",2%
+"United States Senate",D,"Barbara Bollier","544,215",41%
+"United States Senate",R,"Roger Marshall","704,283",54%
+"United States Senate",L,"Jason Buckley","64,568",5%
+"United States House of Representatives 1",D,"Kali Barnett","81,204",28%
+"United States House of Representatives 1",R,"Tracey Mann","203,897",72%
 "United States House of Representatives 2",D,"Michelle De La Isla","133,140",41%
 "United States House of Representatives 2",R,"Jake LaTurner","181,752",55%
 "United States House of Representatives 2",L,"Robert Garrard","13,717",4%
@@ -240,8 +241,8 @@
 "Member, State Board of Education 2",R,"Benjamin B. Hodge","77,313",45%
 "Member, State Board of Education 8",D,"Betty Arnold","42,905",50%
 "Member, State Board of Education 8",R,"Kathy Busch","42,496",50%
-"Supreme Court Justice 4",,"Eric S. Rosen - ""YES""","796,443",70%
-"Supreme Court Justice 4",,"Eric S. Rosen - ""NO""","343,739",30%
+"Supreme Court Justice 4",,"Eric S. Rosen - ""YES""","796,461",70%
+"Supreme Court Justice 4",,"Eric S. Rosen - ""NO""","343,753",30%
 "District Court Judge 18-1",D,"Joni Cole","79,279",42%
 "District Court Judge 18-1",R,"Phillip B. Journey","109,801",58%
 "District Court Judge 18-11",D,"Monique Centeno","78,795",43%
