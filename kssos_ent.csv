@@ -1,20 +1,20 @@
 office,party,name,votes,percent
-"President / Vice President",D,"Joseph R. Biden","542,949",41%
-"President / Vice President",R,"Donald J. Trump","746,340",57%
-"President / Vice President",L,"Jo Jorgensen","28,947",2%
-"United States Senate",D,"Barbara Bollier","544,773",41%
-"United States Senate",R,"Roger Marshall","704,978",54%
-"United States Senate",L,"Jason Buckley","64,664",5%
-"United States House of Representatives 1",D,"Kali Barnett","81,277",28%
-"United States House of Representatives 1",R,"Tracey Mann","203,930",72%
-"United States House of Representatives 2",D,"Michelle De La Isla","133,234",41%
-"United States House of Representatives 2",R,"Jake LaTurner","181,957",55%
-"United States House of Representatives 2",L,"Robert Garrard","13,728",4%
-"United States House of Representatives 3",D,"Sharice L. Davids","212,563",53%
+"President / Vice President",D,"Joseph R. Biden","547,808",41%
+"President / Vice President",R,"Donald J. Trump","750,488",57%
+"President / Vice President",L,"Jo Jorgensen","29,277",2%
+"United States Senate",D,"Barbara Bollier","549,621",42%
+"United States Senate",R,"Roger Marshall","708,888",54%
+"United States Senate",L,"Jason Buckley","65,184",5%
+"United States House of Representatives 1",D,"Kali Barnett","81,429",29%
+"United States House of Representatives 1",R,"Tracey Mann","204,066",71%
+"United States House of Representatives 2",D,"Michelle De La Isla","133,251",41%
+"United States House of Representatives 2",R,"Jake LaTurner","181,980",55%
+"United States House of Representatives 2",L,"Robert Garrard","13,730",4%
+"United States House of Representatives 3",D,"Sharice L. Davids","212,564",53%
 "United States House of Representatives 3",R,"Amanda L. Adkins","174,112",44%
 "United States House of Representatives 3",L,"Steven A Hohe","11,113",3%
-"United States House of Representatives 4",D,"Laura Lombard","103,732",35%
-"United States House of Representatives 4",R,"Ron Estes","190,346",65%
+"United States House of Representatives 4",D,"Laura Lombard","108,074",36%
+"United States House of Representatives 4",R,"Ron Estes","194,716",64%
 "Kansas Senate 1",D,"Kirk Miller","9,770",28%
 "Kansas Senate 1",R,"Dennis Pyle","24,758",72%
 "Kansas Senate 3",D,"Tom Holland","19,961",51%
@@ -35,12 +35,12 @@ office,party,name,votes,percent
 "Kansas Senate 10",R,"Mike Thompson","21,743",52%
 "Kansas Senate 11",D,"Joy Koesten","21,661",47%
 "Kansas Senate 11",R,"Kellie Warren","24,235",53%
-"Kansas Senate 12",D,"Mike Bruner","8,162",26%
-"Kansas Senate 12",R,"Caryn Tyson","23,794",74%
-"Kansas Senate 13",D,"Nancy J. Ingle","9,974",34%
-"Kansas Senate 13",R,"Richard Hilderbrand","19,481",66%
-"Kansas Senate 16",D,"Timothy Don Fry II","11,275",31%
-"Kansas Senate 16",R,"Ty Masterson","25,676",69%
+"Kansas Senate 12",D,"Mike Bruner","8,175",26%
+"Kansas Senate 12",R,"Caryn Tyson","23,809",74%
+"Kansas Senate 13",D,"Nancy J. Ingle","9,978",34%
+"Kansas Senate 13",R,"Richard Hilderbrand","19,485",66%
+"Kansas Senate 16",D,"Timothy Don Fry II","11,601",31%
+"Kansas Senate 16",R,"Ty Masterson","26,207",69%
 "Kansas Senate 17",D,"Stephen Vecchione","8,365",33%
 "Kansas Senate 17",R,"Jeff Longbine","17,008",67%
 "Kansas Senate 18",D,"Tobias Schlingensiepen","13,094",41%
@@ -49,70 +49,70 @@ office,party,name,votes,percent
 "Kansas Senate 19",R,"Rick Kloos","15,825",51%
 "Kansas Senate 20",D,"Rachel Willis","16,330",43%
 "Kansas Senate 20",R,"Brenda S. Dietrich","21,752",57%
-"Kansas Senate 21",D,"Dinah Sykes","23,299",55%
-"Kansas Senate 21",R,"Tom Bickimer","19,328",45%
+"Kansas Senate 21",D,"Dinah Sykes","23,373",55%
+"Kansas Senate 21",R,"Tom Bickimer","19,391",45%
 "Kansas Senate 22",D,"Tom Hawk","14,785",51%
 "Kansas Senate 22",R,"Craig Bowser","14,437",49%
-"Kansas Senate 23",D,"Wendy Budetti","17,198",47%
-"Kansas Senate 23",R,"Rob Olson","19,724",53%
-"Kansas Senate 25",D,"Mary Ware","10,961",53%
-"Kansas Senate 25",R,"Vail Fruechting","9,543",47%
-"Kansas Senate 27",D,"Mike McCorkle","11,651",33%
-"Kansas Senate 27",R,"Gene Suellentrop","24,017",67%
-"Kansas Senate 28",D,"Jim Ward","8,885",45%
-"Kansas Senate 28",R,"Mike Petersen","10,863",55%
-"Kansas Senate 29",D,"Oletha Faust Goudeau","13,150",70%
-"Kansas Senate 29",R,"Myron L. Ackerman","5,620",30%
-"Kansas Senate 30",D,"Melissa Gregory","14,155",47%
-"Kansas Senate 30",R,"Renee Erickson","15,754",53%
-"Kansas Senate 34",D,"Shanna Henry","8,902",30%
-"Kansas Senate 34",R,"Mark Steffen","20,702",70%
-"Kansas Senate 37",D,"Becca Peck","15,762",34%
-"Kansas Senate 37",R,"Molly Baumgardner","30,031",66%
+"Kansas Senate 23",D,"Wendy Budetti","17,249",47%
+"Kansas Senate 23",R,"Rob Olson","19,770",53%
+"Kansas Senate 25",D,"Mary Ware","11,608",54%
+"Kansas Senate 25",R,"Vail Fruechting","9,866",46%
+"Kansas Senate 27",D,"Mike McCorkle","12,221",33%
+"Kansas Senate 27",R,"Gene Suellentrop","24,898",67%
+"Kansas Senate 28",D,"Jim Ward","9,397",46%
+"Kansas Senate 28",R,"Mike Petersen","11,170",54%
+"Kansas Senate 29",D,"Oletha Faust Goudeau","13,901",70%
+"Kansas Senate 29",R,"Myron L. Ackerman","5,846",30%
+"Kansas Senate 30",D,"Melissa Gregory","14,938",48%
+"Kansas Senate 30",R,"Renee Erickson","16,417",52%
+"Kansas Senate 34",D,"Shanna Henry","8,906",30%
+"Kansas Senate 34",R,"Mark Steffen","20,707",70%
+"Kansas Senate 37",D,"Becca Peck","15,779",34%
+"Kansas Senate 37",R,"Molly Baumgardner","30,074",66%
 "Kansas Senate 38",D,"Edgar A. Pando","5,783",31%
 "Kansas Senate 38",R,"Bud Estes","13,037",69%
 "Kansas Senate 40",D,"Larry Joseph Dreiling","7,356",21%
-"Kansas Senate 40",R,"Richard (Rick) Billinger","27,701",79%
-"Kansas House of Representatives 2",D,"Lynn D. Grant","4,007",38%
-"Kansas House of Representatives 2",R,"Kenneth Collins","6,607",62%
-"Kansas House of Representatives 3",D,"Monica Murnan","4,049",46%
-"Kansas House of Representatives 3",R,"Charles (Chuck) Smith","4,769",54%
+"Kansas Senate 40",R,"Richard (Rick) Billinger","27,704",79%
+"Kansas House of Representatives 2",D,"Lynn D. Grant","4,008",38%
+"Kansas House of Representatives 2",R,"Kenneth Collins","6,608",62%
+"Kansas House of Representatives 3",D,"Monica Murnan","4,052",46%
+"Kansas House of Representatives 3",R,"Charles (Chuck) Smith","4,772",54%
 "Kansas House of Representatives 4",D,"Bill Meyer","2,576",25%
 "Kansas House of Representatives 4",R,"Trevor Jacobs","7,692",75%
-"Kansas House of Representatives 5",D,"Roger Sims","2,310",23%
-"Kansas House of Representatives 5",R,"Mark Samsel","7,890",77%
+"Kansas House of Representatives 5",D,"Roger Sims","2,311",23%
+"Kansas House of Representatives 5",R,"Mark Samsel","7,894",77%
 "Kansas House of Representatives 9",D,"Alana Cloutier","2,242",25%
 "Kansas House of Representatives 9",R,"Kent L. Thompson","6,702",75%
 "Kansas House of Representatives 13",D,"Mark Pringle","2,208",23%
 "Kansas House of Representatives 13",R,"Joe Newland","7,505",77%
-"Kansas House of Representatives 14",D,"Angela Justus Schweller","7,522",48%
-"Kansas House of Representatives 14",R,"Charlotte Esau","8,265",52%
-"Kansas House of Representatives 15",D,"Cole Fine","4,863",48%
-"Kansas House of Representatives 15",R,"John Toplikar","5,222",52%
-"Kansas House of Representatives 16",D,"Linda Featherston","6,880",50%
-"Kansas House of Representatives 16",R,"Rashard Young","6,866",50%
-"Kansas House of Representatives 17",D,"Jo Ella Hoye","6,813",51%
-"Kansas House of Representatives 17",R,"Kristine Sapp","6,192",46%
+"Kansas House of Representatives 14",D,"Angela Justus Schweller","7,535",48%
+"Kansas House of Representatives 14",R,"Charlotte Esau","8,285",52%
+"Kansas House of Representatives 15",D,"Cole Fine","4,876",48%
+"Kansas House of Representatives 15",R,"John Toplikar","5,232",52%
+"Kansas House of Representatives 16",D,"Linda Featherston","6,903",50%
+"Kansas House of Representatives 16",R,"Rashard Young","6,904",50%
+"Kansas House of Representatives 17",D,"Jo Ella Hoye","6,837",51%
+"Kansas House of Representatives 17",R,"Kristine Sapp","6,205",46%
 "Kansas House of Representatives 17",L,"Michael Kerner",430,3%
-"Kansas House of Representatives 18",D,"Cindy Neighbor","6,807",52%
-"Kansas House of Representatives 18",R,"Cathy Gordon","6,259",48%
-"Kansas House of Representatives 20",D,"Mari-Lynn Poskin","7,964",51%
-"Kansas House of Representatives 20",R,"Jane Dirks","7,552",49%
-"Kansas House of Representatives 21",D,"Jerry Stogsdill","9,166",62%
-"Kansas House of Representatives 21",R,"Bob Reese","5,636",38%
-"Kansas House of Representatives 23",D,"Susan Ruiz","5,781",55%
-"Kansas House of Representatives 23",R,"Jeff Shull","4,227",40%
-"Kansas House of Representatives 23",L,"Matthew Clark",555,5%
-"Kansas House of Representatives 26",D,"W. Michael Shimeall","5,974",39%
-"Kansas House of Representatives 26",R,"Adam T. Thomas","9,537",61%
-"Kansas House of Representatives 27",D,"Sona Patel","6,744",36%
-"Kansas House of Representatives 27",R,"Sean E. Tarwater Sr.","11,812",64%
-"Kansas House of Representatives 28",D,"Sally Jercha","6,528",47%
-"Kansas House of Representatives 28",R,"Carl Turner","7,410",53%
-"Kansas House of Representatives 29",D,"Brett Parker","7,375",57%
-"Kansas House of Representatives 29",R,"Jerry Clinton","5,635",43%
-"Kansas House of Representatives 30",D,"Brandon Woodard","6,642",52%
-"Kansas House of Representatives 30",R,"Laura Williams","6,156",48%
+"Kansas House of Representatives 18",D,"Cindy Neighbor","6,826",52%
+"Kansas House of Representatives 18",R,"Cathy Gordon","6,279",48%
+"Kansas House of Representatives 20",D,"Mari-Lynn Poskin","7,990",51%
+"Kansas House of Representatives 20",R,"Jane Dirks","7,569",49%
+"Kansas House of Representatives 21",D,"Jerry Stogsdill","9,186",62%
+"Kansas House of Representatives 21",R,"Bob Reese","5,650",38%
+"Kansas House of Representatives 23",D,"Susan Ruiz","5,811",55%
+"Kansas House of Representatives 23",R,"Jeff Shull","4,255",40%
+"Kansas House of Representatives 23",L,"Matthew Clark",556,5%
+"Kansas House of Representatives 26",D,"W. Michael Shimeall","5,982",38%
+"Kansas House of Representatives 26",R,"Adam T. Thomas","9,558",62%
+"Kansas House of Representatives 27",D,"Sona Patel","6,755",36%
+"Kansas House of Representatives 27",R,"Sean E. Tarwater Sr.","11,839",64%
+"Kansas House of Representatives 28",D,"Sally Jercha","6,545",47%
+"Kansas House of Representatives 28",R,"Carl Turner","7,450",53%
+"Kansas House of Representatives 29",D,"Brett Parker","7,392",57%
+"Kansas House of Representatives 29",R,"Jerry Clinton","5,651",43%
+"Kansas House of Representatives 30",D,"Brandon Woodard","6,663",52%
+"Kansas House of Representatives 30",R,"Laura Williams","6,186",48%
 "Kansas House of Representatives 31",D,"Louis E. Ruiz","5,087",71%
 "Kansas House of Representatives 31",R,"Landon Griffith","2,030",29%
 "Kansas House of Representatives 32",D,"Pam Curtis","2,717",75%
@@ -125,23 +125,23 @@ office,party,name,votes,percent
 "Kansas House of Representatives 36",D,"Kathy Wolfe Moore","8,125",63%
 "Kansas House of Representatives 36",R,"Mark Gilstrap","4,862",37%
 "Kansas House of Representatives 38",D,"Sherri D. Grogan","5,368",37%
-"Kansas House of Representatives 38",R,"Timothy H. Johnson","9,224",63%
-"Kansas House of Representatives 39",D,"Les Lampe","6,711",45%
-"Kansas House of Representatives 39",R,"Owen Donohoe","8,257",55%
+"Kansas House of Representatives 38",R,"Timothy H. Johnson","9,238",63%
+"Kansas House of Representatives 39",D,"Les Lampe","6,733",45%
+"Kansas House of Representatives 39",R,"Owen Donohoe","8,280",55%
 "Kansas House of Representatives 40",D,"Joana Scholtz","4,475",46%
 "Kansas House of Representatives 40",R,"David W. French","5,267",54%
 "Kansas House of Representatives 41",D,"Mike Griswold","3,377",47%
 "Kansas House of Representatives 41",R,"Pat Proctor","3,789",53%
-"Kansas House of Representatives 43",D,"Pamela Finley","4,099",35%
-"Kansas House of Representatives 43",R,"Bill Sutton","7,627",65%
+"Kansas House of Representatives 43",D,"Pamela Finley","4,103",35%
+"Kansas House of Representatives 43",R,"Bill Sutton","7,634",65%
 "Kansas House of Representatives 46",D,"Dennis ""Boog"" Highberger","8,966",86%
 "Kansas House of Representatives 46",L,"Dante Javaheri","1,436",14%
 "Kansas House of Representatives 47",D,"Michael Caddell","3,208",29%
 "Kansas House of Representatives 47",R,"Ronald B. Ellis","8,017",71%
-"Kansas House of Representatives 48",D,"Jennifer Day","6,659",50%
-"Kansas House of Representatives 48",R,"Terry Frederick","6,664",50%
-"Kansas House of Representatives 49",D,"Katie Dixon","5,079",48%
-"Kansas House of Representatives 49",R,"Megan Lynn","5,406",52%
+"Kansas House of Representatives 48",D,"Jennifer Day","6,675",50%
+"Kansas House of Representatives 48",R,"Terry Frederick","6,680",50%
+"Kansas House of Representatives 49",D,"Katie Dixon","5,104",49%
+"Kansas House of Representatives 49",R,"Megan Lynn","5,407",51%
 "Kansas House of Representatives 50",D,"Timothy B. Reed","3,285",25%
 "Kansas House of Representatives 50",R,"Fred C. Patton","9,781",75%
 "Kansas House of Representatives 52",D,"Mary Lou Davis","6,083",44%
@@ -158,8 +158,8 @@ office,party,name,votes,percent
 "Kansas House of Representatives 57",R,"Michael Martin","2,558",37%
 "Kansas House of Representatives 58",D,"Vic Miller","4,633",69%
 "Kansas House of Representatives 58",R,"Geoffrey H Gawdun","2,051",31%
-"Kansas House of Representatives 59",D,"Caren Rugg","2,770",27%
-"Kansas House of Representatives 59",R,"Blaine Finch","7,520",73%
+"Kansas House of Representatives 59",D,"Caren Rugg","2,777",27%
+"Kansas House of Representatives 59",R,"Blaine Finch","7,534",73%
 "Kansas House of Representatives 60",D,"Todd Maddox","3,756",40%
 "Kansas House of Representatives 60",R,"Mark A. Schreiber","5,566",60%
 "Kansas House of Representatives 64",D,"Jim Vathauer","1,556",24%
@@ -178,87 +178,87 @@ office,party,name,votes,percent
 "Kansas House of Representatives 72",R,"Avery Anderson","6,036",55%
 "Kansas House of Representatives 75",D,"Ethan D. Caylor","2,264",24%
 "Kansas House of Representatives 75",R,"Will Carpenter","7,007",76%
-"Kansas House of Representatives 78",D,"Kathy Meyer","6,012",47%
-"Kansas House of Representatives 78",R,"Ron Ryckman","6,682",53%
+"Kansas House of Representatives 78",D,"Kathy Meyer","6,026",47%
+"Kansas House of Representatives 78",R,"Ron Ryckman","6,704",53%
 "Kansas House of Representatives 79",D,"Ken White","3,296",35%
 "Kansas House of Representatives 79",R,"Cheryl Helmer","6,083",65%
-"Kansas House of Representatives 81",D,"Matthew Joyce","2,629",34%
-"Kansas House of Representatives 81",R,"Blake Carpenter","5,021",66%
-"Kansas House of Representatives 82",D,"Edward Hackerott","3,010",29%
-"Kansas House of Representatives 82",R,"Jesse Burris","7,375",71%
-"Kansas House of Representatives 83",D,"Henry Helgerson","3,948",59%
-"Kansas House of Representatives 83",R,"David Robbins","2,735",41%
-"Kansas House of Representatives 84",D,"Gail Finney","4,810",74%
-"Kansas House of Representatives 84",R,"Janet Sue Rine","1,734",26%
-"Kansas House of Representatives 85",D,"Marcey Gregory","5,024",39%
-"Kansas House of Representatives 85",R,"Patrick Penn","7,701",61%
-"Kansas House of Representatives 86",D,"Stephanie Byers","3,117",54%
-"Kansas House of Representatives 86",R,"Cyndi Howerton","2,604",46%
-"Kansas House of Representatives 87",D,"Matt Fox","4,707",45%
-"Kansas House of Representatives 87",R,"Susan Oliver Estes","5,859",55%
-"Kansas House of Representatives 89",D,"KC Ohaebosim","5,206",61%
-"Kansas House of Representatives 89",R,"Robert W. Herrick Jr.","3,350",39%
-"Kansas House of Representatives 92",D,"John Carmichael","4,633",57%
-"Kansas House of Representatives 92",R,"Patrick McCormack","3,534",43%
-"Kansas House of Representatives 94",D,"Derek Milligan","3,701",32%
-"Kansas House of Representatives 94",R,"Leo G. Delperdang","7,729",68%
-"Kansas House of Representatives 95",D,"Tom Sawyer","3,247",54%
-"Kansas House of Representatives 95",R,"Christopher Parisho","2,750",46%
-"Kansas House of Representatives 96",D,"Stephanie Yeager","2,721",46%
-"Kansas House of Representatives 96",R,"Tom Kessler","3,242",54%
-"Kansas House of Representatives 97",D,"Kim Webb","2,991",36%
-"Kansas House of Representatives 97",R,"Nick Hoheisel","5,213",64%
-"Kansas House of Representatives 98",D,"Steven G. Crum","2,822",42%
-"Kansas House of Representatives 98",R,"Ron Howard","3,829",58%
-"Kansas House of Representatives 99",D,"Phil Hodson","4,497",33%
-"Kansas House of Representatives 99",R,"Susan Humphries","9,203",67%
-"Kansas House of Representatives 100",D,"Chad Smith","4,205",36%
-"Kansas House of Representatives 100",R,"Daniel Hawkins","7,334",64%
-"Kansas House of Representatives 101",D,"Elliott R. Adams","2,952",25%
-"Kansas House of Representatives 101",R,"Joe Seiwert","8,867",75%
-"Kansas House of Representatives 102",D,"Jason Probst","3,227",50%
-"Kansas House of Representatives 102",R,"John Whitesel","3,222",50%
-"Kansas House of Representatives 103",D,"Ponka-We Victors","2,199",60%
-"Kansas House of Representatives 103",R,"Susanne Haynes","1,225",33%
-"Kansas House of Representatives 103",L,"Loren John Hermreck",256,7%
+"Kansas House of Representatives 81",D,"Matthew Joyce","2,782",35%
+"Kansas House of Representatives 81",R,"Blake Carpenter","5,188",65%
+"Kansas House of Representatives 82",D,"Edward Hackerott","3,134",29%
+"Kansas House of Representatives 82",R,"Jesse Burris","7,557",71%
+"Kansas House of Representatives 83",D,"Henry Helgerson","4,168",59%
+"Kansas House of Representatives 83",R,"David Robbins","2,846",41%
+"Kansas House of Representatives 84",D,"Gail Finney","5,069",74%
+"Kansas House of Representatives 84",R,"Janet Sue Rine","1,812",26%
+"Kansas House of Representatives 85",D,"Marcey Gregory","5,266",40%
+"Kansas House of Representatives 85",R,"Patrick Penn","8,007",60%
+"Kansas House of Representatives 86",D,"Stephanie Byers","3,276",55%
+"Kansas House of Representatives 86",R,"Cyndi Howerton","2,709",45%
+"Kansas House of Representatives 87",D,"Matt Fox","4,969",45%
+"Kansas House of Representatives 87",R,"Susan Oliver Estes","6,103",55%
+"Kansas House of Representatives 89",D,"KC Ohaebosim","5,444",61%
+"Kansas House of Representatives 89",R,"Robert W. Herrick Jr.","3,486",39%
+"Kansas House of Representatives 92",D,"John Carmichael","4,881",57%
+"Kansas House of Representatives 92",R,"Patrick McCormack","3,658",43%
+"Kansas House of Representatives 94",D,"Derek Milligan","3,904",33%
+"Kansas House of Representatives 94",R,"Leo G. Delperdang","8,000",67%
+"Kansas House of Representatives 95",D,"Tom Sawyer","3,438",55%
+"Kansas House of Representatives 95",R,"Christopher Parisho","2,832",45%
+"Kansas House of Representatives 96",D,"Stephanie Yeager","2,882",46%
+"Kansas House of Representatives 96",R,"Tom Kessler","3,328",54%
+"Kansas House of Representatives 97",D,"Kim Webb","3,138",37%
+"Kansas House of Representatives 97",R,"Nick Hoheisel","5,375",63%
+"Kansas House of Representatives 98",D,"Steven G. Crum","2,961",43%
+"Kansas House of Representatives 98",R,"Ron Howard","3,938",57%
+"Kansas House of Representatives 99",D,"Phil Hodson","4,631",33%
+"Kansas House of Representatives 99",R,"Susan Humphries","9,443",67%
+"Kansas House of Representatives 100",D,"Chad Smith","4,388",37%
+"Kansas House of Representatives 100",R,"Daniel Hawkins","7,587",63%
+"Kansas House of Representatives 101",D,"Elliott R. Adams","3,057",25%
+"Kansas House of Representatives 101",R,"Joe Seiwert","9,082",75%
+"Kansas House of Representatives 102",D,"Jason Probst","3,229",50%
+"Kansas House of Representatives 102",R,"John Whitesel","3,223",50%
+"Kansas House of Representatives 103",D,"Ponka-We Victors","2,353",60%
+"Kansas House of Representatives 103",R,"Susanne Haynes","1,277",33%
+"Kansas House of Representatives 103",L,"Loren John Hermreck",271,7%
 "Kansas House of Representatives 104",D,"Garth Strand","4,350",37%
-"Kansas House of Representatives 104",R,"Paul M. Waggoner","7,374",63%
-"Kansas House of Representatives 105",D,"Michelle Snyder","3,347",40%
-"Kansas House of Representatives 105",R,"Brenda Landwehr","5,075",60%
+"Kansas House of Representatives 104",R,"Paul M. Waggoner","7,375",63%
+"Kansas House of Representatives 105",D,"Michelle Snyder","3,560",40%
+"Kansas House of Representatives 105",R,"Brenda Landwehr","5,264",60%
 "Kansas House of Representatives 106",D,"James L Swim","2,711",25%
 "Kansas House of Representatives 106",R,"Lisa M. Moser","8,260",75%
 "Kansas House of Representatives 111",D,"Eber Phelps","4,021",36%
 "Kansas House of Representatives 111",R,"Barb Wasinger","7,175",64%
 "Kansas House of Representatives 114",D,"Jeff Stroberg","3,039",29%
-"Kansas House of Representatives 114",R,"Michael Murphy","7,311",71%
+"Kansas House of Representatives 114",R,"Michael Murphy","7,314",71%
 "Kansas House of Representatives 116",D,"Rick Roitman","2,122",22%
 "Kansas House of Representatives 116",R,"Kyle D. Hoffman","7,482",78%
 "Kansas House of Representatives 119",D,"Jan Scoggins","2,129",39%
 "Kansas House of Representatives 119",R,"Bradley C. Ralph","3,294",61%
-"Kansas House of Representatives 121",D,"James Rexford","6,665",41%
-"Kansas House of Representatives 121",R,"John Resman","9,752",59%
-"Member, State Board of Education 2",D,"Melanie Haas","96,250",55%
-"Member, State Board of Education 2",R,"Benjamin B. Hodge","77,313",45%
-"Member, State Board of Education 8",D,"Betty Arnold","42,905",50%
-"Member, State Board of Education 8",R,"Kathy Busch","42,496",50%
-"Supreme Court Justice 4",,"Eric S. Rosen - ""YES""","796,538",70%
-"Supreme Court Justice 4",,"Eric S. Rosen - ""NO""","343,777",30%
-"District Court Judge 18-1",D,"Joni Cole","79,279",42%
-"District Court Judge 18-1",R,"Phillip B. Journey","109,801",58%
-"District Court Judge 18-11",D,"Monique Centeno","78,795",43%
-"District Court Judge 18-11",R,"Quentin Pittman","106,483",57%
-"District Court Judge 18-25",D,"James Thompson","78,300",42%
-"District Court Judge 18-25",R,"Sean Hatfield","107,539",58%
+"Kansas House of Representatives 121",D,"James Rexford","6,688",41%
+"Kansas House of Representatives 121",R,"John Resman","9,784",59%
+"Member, State Board of Education 2",D,"Melanie Haas","96,554",55%
+"Member, State Board of Education 2",R,"Benjamin B. Hodge","77,579",45%
+"Member, State Board of Education 8",D,"Betty Arnold","45,251",51%
+"Member, State Board of Education 8",R,"Kathy Busch","44,066",49%
+"Supreme Court Justice 4",,"Eric S. Rosen - ""YES""","802,621",70%
+"Supreme Court Justice 4",,"Eric S. Rosen - ""NO""","344,868",30%
+"District Court Judge 18-1",D,"Joni Cole","83,507",42%
+"District Court Judge 18-1",R,"Phillip B. Journey","113,680",58%
+"District Court Judge 18-11",D,"Monique Centeno","83,069",43%
+"District Court Judge 18-11",R,"Quentin Pittman","110,038",57%
+"District Court Judge 18-25",D,"James Thompson","111,237",57%
+"District Court Judge 18-25",R,"Sean Hatfield","82,409",43%
 "District Magistrate Judge 13-1",D,"Steven Garrison",187,14%
 "District Magistrate Judge 13-1",R,"Joe E. Lee",681,52%
 "District Magistrate Judge 13-1",i,"Joyce E. Cross",440,34%
 "District Magistrate Judge 16-3",R,"Anthony Bayer","1,672",79%
 "District Magistrate Judge 16-3",L,"Roman VanNahmen",433,21%
 "District Magistrate Judge 26-3",D,"Daniel B Acosta",100,9%
-"District Magistrate Judge 26-3",R,"Ethan G. Harder",985,91%
+"District Magistrate Judge 26-3",R,"Ethan G. Harder",987,91%
 "District Magistrate Judge 26-4",R,"Jerry Gum",629,83%
 "District Magistrate Judge 26-4",i,"Kate Morrison",127,17%
 "District Attorney 3",D,"Joshua Luttrell","33,251",40%
 "District Attorney 3",R,"Mike Kagay","49,409",60%
-"District Attorney 10",D,"Zach V. Thomas","158,078",48%
-"District Attorney 10",R,"Steve Howe","171,254",52%
+"District Attorney 10",D,"Zach V. Thomas","158,548",48%
+"District Attorney 10",R,"Steve Howe","171,769",52%
