@@ -1,22 +1,22 @@
 office,party,name,votes,percent
-"President / Vice President",D,"Joseph R. Biden","547,808",41%
-"President / Vice President",R,"Donald J. Trump","750,488",57%
-"President / Vice President",L,"Jo Jorgensen","29,277",2%
-"United States Senate",D,"Barbara Bollier","549,621",42%
-"United States Senate",R,"Roger Marshall","708,888",54%
+"President / Vice President",D,"Joseph R. Biden","547,814",41%
+"President / Vice President",R,"Donald J. Trump","750,510",57%
+"President / Vice President",L,"Jo Jorgensen","29,287",2%
+"United States Senate",D,"Barbara Bollier","549,628",42%
+"United States Senate",R,"Roger Marshall","708,909",54%
 "United States Senate",L,"Jason Buckley","65,184",5%
-"United States House of Representatives 1",D,"Kali Barnett","81,429",29%
-"United States House of Representatives 1",R,"Tracey Mann","204,066",71%
-"United States House of Representatives 2",D,"Michelle De La Isla","133,251",41%
-"United States House of Representatives 2",R,"Jake LaTurner","181,980",55%
-"United States House of Representatives 2",L,"Robert Garrard","13,730",4%
+"United States House of Representatives 1",D,"Kali Barnett","81,430",29%
+"United States House of Representatives 1",R,"Tracey Mann","204,071",71%
+"United States House of Representatives 2",D,"Michelle De La Isla","133,252",41%
+"United States House of Representatives 2",R,"Jake LaTurner","181,986",55%
+"United States House of Representatives 2",L,"Robert Garrard","13,731",4%
 "United States House of Representatives 3",D,"Sharice L. Davids","212,564",53%
 "United States House of Representatives 3",R,"Amanda L. Adkins","174,112",44%
 "United States House of Representatives 3",L,"Steven A Hohe","11,113",3%
-"United States House of Representatives 4",D,"Laura Lombard","108,074",36%
-"United States House of Representatives 4",R,"Ron Estes","194,716",64%
-"Kansas Senate 1",D,"Kirk Miller","9,770",28%
-"Kansas Senate 1",R,"Dennis Pyle","24,758",72%
+"United States House of Representatives 4",D,"Laura Lombard","108,079",36%
+"United States House of Representatives 4",R,"Ron Estes","194,726",64%
+"Kansas Senate 1",D,"Kirk Miller","9,771",28%
+"Kansas Senate 1",R,"Dennis Pyle","24,763",72%
 "Kansas Senate 3",D,"Tom Holland","19,961",51%
 "Kansas Senate 3",R,"Willie Dove","19,168",49%
 "Kansas Senate 4",D,"David Haley","16,707",78%
@@ -39,8 +39,8 @@ office,party,name,votes,percent
 "Kansas Senate 12",R,"Caryn Tyson","23,809",74%
 "Kansas Senate 13",D,"Nancy J. Ingle","9,978",34%
 "Kansas Senate 13",R,"Richard Hilderbrand","19,485",66%
-"Kansas Senate 16",D,"Timothy Don Fry II","11,601",31%
-"Kansas Senate 16",R,"Ty Masterson","26,207",69%
+"Kansas Senate 16",D,"Timothy Don Fry II","11,602",31%
+"Kansas Senate 16",R,"Ty Masterson","26,214",69%
 "Kansas Senate 17",D,"Stephen Vecchione","8,365",33%
 "Kansas Senate 17",R,"Jeff Longbine","17,008",67%
 "Kansas Senate 18",D,"Tobias Schlingensiepen","13,094",41%
@@ -82,7 +82,7 @@ office,party,name,votes,percent
 "Kansas House of Representatives 5",D,"Roger Sims","2,311",23%
 "Kansas House of Representatives 5",R,"Mark Samsel","7,894",77%
 "Kansas House of Representatives 9",D,"Alana Cloutier","2,242",25%
-"Kansas House of Representatives 9",R,"Kent L. Thompson","6,702",75%
+"Kansas House of Representatives 9",R,"Kent L. Thompson","6,703",75%
 "Kansas House of Representatives 13",D,"Mark Pringle","2,208",23%
 "Kansas House of Representatives 13",R,"Joe Newland","7,505",77%
 "Kansas House of Representatives 14",D,"Angela Justus Schweller","7,535",48%
@@ -176,8 +176,8 @@ office,party,name,votes,percent
 "Kansas House of Representatives 71",R,"Steven K. Howe","6,982",69%
 "Kansas House of Representatives 72",D,"Tim Hodge","4,952",45%
 "Kansas House of Representatives 72",R,"Avery Anderson","6,036",55%
-"Kansas House of Representatives 75",D,"Ethan D. Caylor","2,264",24%
-"Kansas House of Representatives 75",R,"Will Carpenter","7,007",76%
+"Kansas House of Representatives 75",D,"Ethan D. Caylor","2,266",24%
+"Kansas House of Representatives 75",R,"Will Carpenter","7,009",76%
 "Kansas House of Representatives 78",D,"Kathy Meyer","6,026",47%
 "Kansas House of Representatives 78",R,"Ron Ryckman","6,704",53%
 "Kansas House of Representatives 79",D,"Ken White","3,296",35%
@@ -210,8 +210,8 @@ office,party,name,votes,percent
 "Kansas House of Representatives 97",R,"Nick Hoheisel","5,375",63%
 "Kansas House of Representatives 98",D,"Steven G. Crum","2,961",43%
 "Kansas House of Representatives 98",R,"Ron Howard","3,938",57%
-"Kansas House of Representatives 99",D,"Phil Hodson","4,631",33%
-"Kansas House of Representatives 99",R,"Susan Humphries","9,443",67%
+"Kansas House of Representatives 99",D,"Phil Hodson","4,634",33%
+"Kansas House of Representatives 99",R,"Susan Humphries","9,447",67%
 "Kansas House of Representatives 100",D,"Chad Smith","4,388",37%
 "Kansas House of Representatives 100",R,"Daniel Hawkins","7,587",63%
 "Kansas House of Representatives 101",D,"Elliott R. Adams","3,057",25%
@@ -241,14 +241,14 @@ office,party,name,votes,percent
 "Member, State Board of Education 2",R,"Benjamin B. Hodge","77,579",45%
 "Member, State Board of Education 8",D,"Betty Arnold","45,251",51%
 "Member, State Board of Education 8",R,"Kathy Busch","44,066",49%
-"Supreme Court Justice 4",,"Eric S. Rosen - ""YES""","802,621",70%
-"Supreme Court Justice 4",,"Eric S. Rosen - ""NO""","344,868",30%
+"Supreme Court Justice 4",,"Eric S. Rosen - ""YES""","802,639",70%
+"Supreme Court Justice 4",,"Eric S. Rosen - ""NO""","344,875",30%
 "District Court Judge 18-1",D,"Joni Cole","83,507",42%
 "District Court Judge 18-1",R,"Phillip B. Journey","113,680",58%
 "District Court Judge 18-11",D,"Monique Centeno","83,069",43%
 "District Court Judge 18-11",R,"Quentin Pittman","110,038",57%
-"District Court Judge 18-25",D,"James Thompson","111,237",57%
-"District Court Judge 18-25",R,"Sean Hatfield","82,409",43%
+"District Court Judge 18-25",D,"James Thompson","82,409",43%
+"District Court Judge 18-25",R,"Sean Hatfield","111,237",57%
 "District Magistrate Judge 13-1",D,"Steven Garrison",187,14%
 "District Magistrate Judge 13-1",R,"Joe E. Lee",681,52%
 "District Magistrate Judge 13-1",i,"Joyce E. Cross",440,34%
